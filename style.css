@@ -1,0 +1,39 @@
+.greeting {
+    color: gray;
+    font-size: 16px;
+}
+
+body {
+    color: #080808;
+    font-size: 16px;
+    padding: 10px 10px 10px 10px;
+    text-align: justify
+}
+
+.code {
+    background-color:lightgray;
+    border-left: 2px solid #B041FF;
+    padding-left: 5px;
+    color: black;
+    width: 100%;
+}
+
+.menuitem {
+    display: inline;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #B041FF;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.menuitem:hover {
+    text-decoration: underline;
+    background-color: lightgray;
+}
+menuitem:visited {
+    color: #B041FF;
+}
